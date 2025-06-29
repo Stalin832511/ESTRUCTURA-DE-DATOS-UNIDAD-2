@@ -1,0 +1,14 @@
+C:\Users\Familia\Documents\TRABAJO_5\EJERCICIO3\bin\Debug\net8.0\EJERCICIO3.exe
+C:\Users\Familia\Documents\TRABAJO_5\EJERCICIO3\bin\Debug\net8.0\EJERCICIO3.deps.json
+C:\Users\Familia\Documents\TRABAJO_5\EJERCICIO3\bin\Debug\net8.0\EJERCICIO3.runtimeconfig.json
+C:\Users\Familia\Documents\TRABAJO_5\EJERCICIO3\bin\Debug\net8.0\EJERCICIO3.dll
+C:\Users\Familia\Documents\TRABAJO_5\EJERCICIO3\bin\Debug\net8.0\EJERCICIO3.pdb
+C:\Users\Familia\Documents\TRABAJO_5\EJERCICIO3\obj\Debug\net8.0\EJERCICIO3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Familia\Documents\TRABAJO_5\EJERCICIO3\obj\Debug\net8.0\EJERCICIO3.AssemblyInfoInputs.cache
+C:\Users\Familia\Documents\TRABAJO_5\EJERCICIO3\obj\Debug\net8.0\EJERCICIO3.AssemblyInfo.cs
+C:\Users\Familia\Documents\TRABAJO_5\EJERCICIO3\obj\Debug\net8.0\EJERCICIO3.csproj.CoreCompileInputs.cache
+C:\Users\Familia\Documents\TRABAJO_5\EJERCICIO3\obj\Debug\net8.0\EJERCICIO3.dll
+C:\Users\Familia\Documents\TRABAJO_5\EJERCICIO3\obj\Debug\net8.0\refint\EJERCICIO3.dll
+C:\Users\Familia\Documents\TRABAJO_5\EJERCICIO3\obj\Debug\net8.0\EJERCICIO3.pdb
+C:\Users\Familia\Documents\TRABAJO_5\EJERCICIO3\obj\Debug\net8.0\EJERCICIO3.genruntimeconfig.cache
+C:\Users\Familia\Documents\TRABAJO_5\EJERCICIO3\obj\Debug\net8.0\ref\EJERCICIO3.dll
